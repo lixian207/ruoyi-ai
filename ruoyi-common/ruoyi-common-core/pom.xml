@@ -124,6 +124,12 @@
             <artifactId>logging-interceptor</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.azure</groupId>
+            <artifactId>azure-ai-openai</artifactId>
+            <version>1.0.0-beta.6</version>
+        </dependency>
+
     </dependencies>
 
 </project>

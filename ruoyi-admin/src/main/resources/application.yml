@@ -220,11 +220,11 @@ mail:
   # 是否需要用户名密码验证
   auth: true
   # 发送方，遵循RFC-822标准
-  from: ageerle@163.com
+  from: lixian207@163.com
   # 用户名（注意：如果使用foxmail邮箱，此处user为qq号）
-  user: ageerle@163.com
+  user: lixian207@163.com
   # 密码（填写授权码）
-  pass: TOGXBVPYFVPFRQMQ
+  pass: PIDRRYYIQRJEWIZT
   # 使用 STARTTLS安全连接，STARTTLS是对纯文本通信协议的扩展。
   starttlsEnable: true
   # 使用SSL安全连接
