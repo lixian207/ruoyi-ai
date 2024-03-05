@@ -320,8 +320,9 @@ websocket:
   allowedOrigins: '*'
 # chatgpt配置信息
 chat:
-  apiKey: 'sk-uMCP3lTg1dQ9L7Xs2bF352Fa216a4c9280577b205dE67e12'
-  apiHost: 'https://api.pandarobot.chat/'
+  apiKey: 'hk-472soq1000001129271bb5f2d320d95990e13558ef88490e'
+  apiHost: 'https://api.openai-hk.com/'
+#  apiHost: 'https://api.pandarobot.chat/'
 # 微信小程序配置信息
 wx:
   miniapp:
@@ -368,7 +369,7 @@ mj:
     wss: https://gateway.pandarobot.chat/
   openai:
     gpt-api-url: 'https://api.pandarobot.chat/'
-    gpt-api-key: 'sk-xxx'
+    gpt-api-key: 'hk-472soq1000001129271bb5f2d320d95990e13558ef88490e'
   accounts:
     - guild-id: 'xxxxx'
       channel-id: 'xxxxx'
